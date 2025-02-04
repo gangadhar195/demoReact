@@ -1,0 +1,17 @@
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+}
+
+table, th, td {
+  padding: 9px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table th{
+  background-color: yellow;
+}
